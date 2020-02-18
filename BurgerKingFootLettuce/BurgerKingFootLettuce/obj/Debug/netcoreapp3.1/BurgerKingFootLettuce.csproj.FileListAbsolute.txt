@@ -1,0 +1,11 @@
+C:\Users\Tom\source\repos\BurgerKingFootLettuce\BurgerKingFootLettuce\bin\Debug\netcoreapp3.1\BurgerKingFootLettuce.exe
+C:\Users\Tom\source\repos\BurgerKingFootLettuce\BurgerKingFootLettuce\bin\Debug\netcoreapp3.1\BurgerKingFootLettuce.deps.json
+C:\Users\Tom\source\repos\BurgerKingFootLettuce\BurgerKingFootLettuce\bin\Debug\netcoreapp3.1\BurgerKingFootLettuce.runtimeconfig.json
+C:\Users\Tom\source\repos\BurgerKingFootLettuce\BurgerKingFootLettuce\bin\Debug\netcoreapp3.1\BurgerKingFootLettuce.runtimeconfig.dev.json
+C:\Users\Tom\source\repos\BurgerKingFootLettuce\BurgerKingFootLettuce\bin\Debug\netcoreapp3.1\BurgerKingFootLettuce.dll
+C:\Users\Tom\source\repos\BurgerKingFootLettuce\BurgerKingFootLettuce\bin\Debug\netcoreapp3.1\BurgerKingFootLettuce.pdb
+C:\Users\Tom\source\repos\BurgerKingFootLettuce\BurgerKingFootLettuce\obj\Debug\netcoreapp3.1\BurgerKingFootLettuce.csprojAssemblyReference.cache
+C:\Users\Tom\source\repos\BurgerKingFootLettuce\BurgerKingFootLettuce\obj\Debug\netcoreapp3.1\BurgerKingFootLettuce.AssemblyInfoInputs.cache
+C:\Users\Tom\source\repos\BurgerKingFootLettuce\BurgerKingFootLettuce\obj\Debug\netcoreapp3.1\BurgerKingFootLettuce.AssemblyInfo.cs
+C:\Users\Tom\source\repos\BurgerKingFootLettuce\BurgerKingFootLettuce\obj\Debug\netcoreapp3.1\BurgerKingFootLettuce.dll
+C:\Users\Tom\source\repos\BurgerKingFootLettuce\BurgerKingFootLettuce\obj\Debug\netcoreapp3.1\BurgerKingFootLettuce.pdb
